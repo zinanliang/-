@@ -1,2 +1,2 @@
 This repo is my notebook of Greek mythology.
-There is more discribtion than **creation**.
+There is more discription than **creation**.
